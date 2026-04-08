@@ -9,10 +9,11 @@ This project is a simple and responsive Login & Signup Page built using HTML and
 * HTML5
 * CSS3
 ## Project Structure
-**login_signup/** #Project folder name
+**act1_login_signup-main**
 *  index.html
 *  style.css
 *  README.md
+*  LICENSE
 ## How to Use
 1. Download or clone the repository:
 git clone https://github.com/AL-FAIZKHAN007/act1_login_signup.git
